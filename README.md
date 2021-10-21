@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+<p>
+  <a href="https://twitter.com/chapuzon">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/juanmanuelespi6">
+  </a>
+</p>
+
+🔨 Working with enterprise companies
+
+![](https://komarev.com/ghpvc/?username=Juan080796)
+
+
+<a href="https://github.com/Juan080796">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juan080796&count_private=true" /> 
+</a>
+<a href="https://github.com/Juan080796">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan080796" />
+</a>
+
 <!--
 **Juan080796/Juan080796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
